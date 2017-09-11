@@ -2,7 +2,8 @@ Overview -
 This is a solution to the Sortable Project by Hassan Ouda
 
 Running the Code -
-This solution requires Python 3.6, and uses only the standard library. Clone the repo, and python product_listings.py should work.
+This solution requires Python 3.6, and uses only the standard library. 
+Clone the repo, and 'python product_listings.py' should work.
 The results will generate a file called results.txt and will took around 2 minutes on my local computer.
 
 Files -
