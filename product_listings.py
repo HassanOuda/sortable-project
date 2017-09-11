@@ -31,7 +31,7 @@ for line in open('products.txt', 'r'):
 	
 # Reading the listings data
 listings = []
-for line in open('listings.txt', encoding='utf8'):
+for line in open('listings.txt'):
 	listings.append(json.loads(line))
 
 
